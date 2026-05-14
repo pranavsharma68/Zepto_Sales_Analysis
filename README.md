@@ -1,4 +1,5 @@
 # Zepto Sales Analysis
+<img width="512" height="512" alt="zepto-logo-vector_logoshape com" src="https://github.com/user-attachments/assets/3a7c276b-0f1f-4b78-844a-401f0ac465b6" />
 
 ## Project Overview
 This project analyzes Zepto sales and inventory data using SQL and Power BI to uncover customer purchasing patterns, product performance trends, and revenue-driving categories. The goal was to transform raw quick-commerce data into actionable business insights through data cleaning, analysis, and interactive dashboarding.
